@@ -13,6 +13,7 @@ module.exports = (api, options) => {
       "lodash": "^4.17.15",
       "vue": "^2.6.11",
       "vue-axios": "^2.1.5",
+      "vue-i18n": "^8.15.4",
       "vue-router": "^3.1.5",
       "vuex": "^3.1.2"
     },
